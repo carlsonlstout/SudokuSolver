@@ -1,7 +1,8 @@
 I wrote my check-ins in comments on my program files and was going to just worry about the GitHub at the end.
 I was saving my changes to my folder on my device, so unfortunately, I don't have any commit changes or comments. 
-I reread the rubric, and I see the error in my ways, as committing it would have shown what I was changing/explaining what I was doing. 
-I copied them below and removed them from the project files before uploading.
+I reread the rubric, and I see the error in my ways, as committing it would have shown what I was changing by the date. 
+I copied them below and removed them from the project files before uploading. Check-ins were written a day before each, so the 15th, 22nd, and 29th as I 
+had a reminder in my calendar, but I don't have the commits, so I understand if I miss out on the 6 points for version control
 
 Check in 1 
 Setup: I created a basic folder structure and placeholder files for SudokuSolver, SudokuGrid, and Cell classes.

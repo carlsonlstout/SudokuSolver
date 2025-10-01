@@ -5,7 +5,7 @@
  * Date: 9/12/2025
  *
  * Usage:
- * 1. Program asks for input file (e.g., puzzle9.txt).
+ * 1. Program asks for input file (e.g., .txt file).
  * 2. Loads puzzle, validates input.
  * 3. Attempts to solve automatically (backtracking).
  * 4. Prints solution or unsolvable message.
